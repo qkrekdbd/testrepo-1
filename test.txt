@@ -1,6 +1,2 @@
 Created from my computer
-<<<<<<< HEAD
-Hello
-=======
-World
->>>>>>> b4e89ed3c3653a504cf9ec39d44d977147c18a49
+Hello World
